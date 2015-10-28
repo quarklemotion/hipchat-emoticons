@@ -15,9 +15,11 @@ Thankfully, hipchat let's you upload custom emoticons to personalize your emotic
 <img src="src/mindblownxl.gif" width="30" height="30" /> (mindblownxl)
 <img src="src/nerddance.gif" height="30" /> (nerddance)
 
+<img src="src/nerfwar.gif" width="30" height="30" /> (nerfwar)
 <img src="src/penguin.gif" width="30" height="30" /> (penguin)
 <img src="src/run.gif" width="30" height="30" /> (run)
 <img src="src/thehorror.gif" width="30" height="30" /> (thehorror)
+
 <img src="src/tumbleweed.gif" width="30" height="30" /> (tumbleweed)
 <img src="src/walk.gif" width="30" height="30" /> (walk)
 
