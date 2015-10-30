@@ -5,23 +5,30 @@ Thankfully, hipchat let's you upload custom emoticons to personalize your emotic
 
 ## Emoticons
 
+<img src="src/ambulance.gif" height="30" /> (ambulance)
+<img src="src/breakdance.gif" height="30" /> (breakdance)
 <img src="src/carlton.gif" height="30" /> (carlton)
+<img src="src/dancingcorgi.gif" width="30" height="30" /> (dancingcorgi)
+
 <img src="src/drunk.gif" width="30" height="30" /> (drunk)
 <img src="src/foos.png" width="30" height="30" /> (foos)
 <img src="src/gross.gif" width="30" height="30" /> (gross)
+<img src="src/lacroix.jpg" height="30" /> (lacroix)
 
 <img src="src/leftshark.gif" height="30" /> (leftshark)
 <img src="src/magnum.gif" width="30" height="30" /> (magnum)
 <img src="src/mindblownxl.gif" width="30" height="30" /> (mindblownxl)
-<img src="src/nerddance.gif" height="30" /> (nerddance)
+<img src="src/mugatu.gif" width="30" height="30" /> (mugatu)
 
+<img src="src/nerddance.gif" height="30" /> (nerddance)
 <img src="src/nerfwar.gif" width="30" height="30" /> (nerfwar)
 <img src="src/penguin.gif" width="30" height="30" /> (penguin)
 <img src="src/run.gif" width="30" height="30" /> (run)
-<img src="src/thehorror.gif" width="30" height="30" /> (thehorror)
 
+<img src="src/thehorror.gif" width="30" height="30" /> (thehorror)
 <img src="src/tumbleweed.gif" width="30" height="30" /> (tumbleweed)
 <img src="src/walk.gif" width="30" height="30" /> (walk)
+<img src="src/wolverine.gif" width="30" height="30" /> (wolverine)
 
 ## Emoticon DIY Guide
 
